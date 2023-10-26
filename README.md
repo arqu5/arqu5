@@ -1,0 +1,4 @@
+- I am an artist learning how to program, mostly interested in EVM/DeFi/web3, etc...
+- I'm primarily familiar with python and vyper, but am currently developing some front-end skills.
+- Mostly I'm experimenting and exploring, unsure of exactly where I'm going.
+- Find me @arqus on twitter.
